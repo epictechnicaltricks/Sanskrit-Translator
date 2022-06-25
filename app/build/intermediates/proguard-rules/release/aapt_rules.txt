@@ -1,0 +1,137 @@
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:67
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:57
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:81
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:92
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:106
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:87
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:102
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:51
+-keep class odia.sanskrit.ett.FullscreenActivity { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:46
+-keep class odia.sanskrit.ett.InfoLayoutActivity { <init>(); }
+# Referenced at C:\Users\RAM\Desktop\translator\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class odia.sanskrit.ett.MainActivity { <init>(); }
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\6acab21a434da931e61c79a74937d6bc\transformed\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\custom_view.xml:8
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\about_fragment.xml:23
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\137892dcd36f9af54fadd977b323839c\transformed\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\history_fragment.xml:34
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\favorite_fragment.xml:34
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\favorite_fragment.xml:8
+-keep class androidx.swiperefreshlayout.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\info_layout.xml:39
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\home_fragment.xml:238
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\history_fragment.xml:37
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\favorite_fragment.xml:40
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# Referenced at C:\Users\RAM\Desktop\translator\app\src\main\res\layout\info_layout.xml:44
+-keep class com.google.android.material.bottomnavigation.BottomNavigationView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\RAM\.gradle\caches\transforms-3\3e85f37074ee1ec80e7c16de0c3d4021\transformed\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+

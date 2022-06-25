@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<LinearLayout
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:orientation="vertical"
+	xmlns:aapt="http://schemas.android.com/aapt"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+	<LinearLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:orientation="vertical"
+		android:background="#ffffff"
+		android:id="@+id/linear1"
+		android:gravity="bottom">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:background="#e8f5e9"
+		android:id="@+id/history_count"
+		android:gravity="center"
+		android:text="5 Translated"
+		android:paddingBottom="6dp"
+		android:paddingRight="8dp"
+		android:paddingTop="8dp"
+		android:paddingLeft="8dp"
+		android:textColor="#2e7d32"
+		android:textSize="14sp"/>
+
+	<androidx.recyclerview.widget.RecyclerView
+		android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/recyclerview1" android:layout_weight="1" android:padding="8dp"/>
+
+	<com.google.android.gms.ads.AdView
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:id="@+id/adview1"
+		app:adUnitId="@string/banner_id"
+		app:adSize="BANNER"/>
+
+
+	-<LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="horizontal" android:background="#e3f2fd" android:id="@+id/linear2" android:gravity="center" android:layout_gravity="center">
+
+	<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:background="#e3f2fd" android:id="@+id/textview1" android:gravity="center" android:text="Refresh History" android:textColor="#2196f3" android:textSize="14sp" android:layout_weight="1" android:padding="8dp" android:layout_gravity="center" android:textStyle="bold"/>
+
+	<LinearLayout android:layout_height="match_parent" android:layout_width="1dp" android:orientation="horizontal" android:background="#1976d2" android:id="@+id/linear3" android:padding="8dp"/>
+
+	<TextView android:layout_height="match_parent" android:layout_width="wrap_content" android:background="#ffebee" android:id="@+id/textview2" android:gravity="center" android:text=" Clear All " android:textColor="#f44336" android:textSize="14sp" android:padding="8dp" android:textStyle="bold"/>
+
+</LinearLayout>
+
+</LinearLayout>
+
+</LinearLayout>
